@@ -1,6 +1,6 @@
-# flutterapp
+# Paytm with Flutter
 
-A new Flutter application.
+Native Implementation of Paytm with Flutter.
 
 ## Getting Started
 
