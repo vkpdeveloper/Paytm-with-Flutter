@@ -14,9 +14,7 @@ import java.io.PrintWriter;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
-/**
- * Created by AndroidIgniter on 01-02-2019.
- */
+
 public class JsonParser {
     static InputStream is = null;
     static JSONObject jObj = null;
